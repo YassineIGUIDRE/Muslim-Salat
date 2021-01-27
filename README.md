@@ -1,6 +1,6 @@
 # Muslim Salat
 
-Welcome to Muslim Salat, a simple web project to get prayer times with APIs using JavaScript.
+Welcome to Muslim Salat, a simple web application to get prayer times by APIs and built with {HTML, CSS, Bootstrap, JavaScript}.
 
 # APIs uses
 
